@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, writing and content creation.
 - 🌱 I’m currently learning html5, css3 and javascript
 - 💞️ I’m looking to collaborate on frontend webdevelopment
-- 📫 How to reach me https://www.linkedin.com/in/john-chidera-584731205; winifredjohnchidera123@gmail.com;https://winifredjohnchidera123.medium.com/;
+- 📫 How to reach me https://www.linkedin.com/in/john-chidera-584731205; winifredjohnchidera123@gmail.com;https://twitter.com/WinneXia;
 
 John Winifred is a talented writer who can decipher technical jargon and connect with her audience. Her purpose is to provide a convincing explanation to even the most inexperienced listener.
 
