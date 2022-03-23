@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnwinifred
+- 👋 Hi, I’m John Chidera Winifred
 - 👀 I’m interested in coding, writing and content creation.
 - 🌱 I’m currently learning html5, css3 and javascript
 - 💞️ I’m looking to collaborate on frontend webdevelopment
