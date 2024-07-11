@@ -1,5 +1,5 @@
 
-[![Masterhead](https://3.bp.blogspot.com/-Bmq3YncJceQ/WEu597N68vI/AAAAAAAAAq8/fk-l4f-Mrb02ZvSiH8SY6kfUg9doFgU9gCLcB/s1600/hello_world.gif)
+![Masterhead](https://3.bp.blogspot.com/-Bmq3YncJceQ/WEu597N68vI/AAAAAAAAAq8/fk-l4f-Mrb02ZvSiH8SY6kfUg9doFgU9gCLcB/s1600/hello_world.gif)
 <h1 align="center">Hi 👋, I'm Winifred John</h1>
 <h3 align="center">Becoming 1% better Developer; An enthralling Technical Writer.</h3>
 <img align="center" width="400" src="https://pro2-bar-s3-cdn-cf5.myportfolio.com/17a47d9e8f4727ce5f3e48805b2d8eb2/67cb1a46-1d0c-45fe-ab3f-520e4802b1b8_rwc_0x7x800x626x800.gif?h=3ef38d2bcece76203455258e0d585fe9" alt="johnwinifred">
@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnwinifred" alt="johnwinifred" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@winnexia" target="blank"><img src="https://img.shields.io/twitter/follow/@winnexia?logo=twitter&style=for-the-badge" alt="@winnexia" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@winifredjohnn" target="blank"><img src="https://img.shields.io/twitter/follow/@winnexia?logo=twitter&style=for-the-badge" alt="@winne" /></a> </p>
 
-- 🔭 I’m currently working on **Kwicker App**
+- 🔭 I’m currently working on **Ndia Project**
 
-- 🌱 I’m currently learning **React and jQuery**
+- 🌱 I’m currently learning **React and NextJS**
 
-- 💬 Ask me about **css,javascript**
+- 💬 Ask me about **Technical Writing and API Docs**
 
 - 📫 How to reach me **winifredjohnchidera123@gmail.com**
 
-- ⚡ Fun fact **I love talking, traveling and trying new cusines**
+- ⚡ Fun fact **I love talking, traveling and trying new cuisines**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
