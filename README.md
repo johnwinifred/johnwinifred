@@ -11,7 +11,7 @@ I’m open to collaborating on:
 
 💬 Ask me about **Software Development, Technical Writing, API Documentation, Frontend Development, Web3, Blockchain, and Developer Experience**.
 
-📫 Reach me via: [📧 Email](mailto:winifredjohchidera123@gmail.com) | [🔗 LinkedIn](#) | [🐦 Twitter](#)
+📫 Reach me via: [📧 Email](mailto:winifredjohchidera123@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/winifred-john-584731205/) | [X](https://x.com/WinifredJohnnn)
 
 📍 Location: Somewhere in the world, knee-deep in research and fantasising about 50-year-old algorithms.
 
@@ -30,31 +30,30 @@ I’m open to collaborating on:
 ---
 
 ### 📚 Documentation Projects
-- **Rimplenet API Documentation** – Created detailed API documentation with GitBook, including endpoint descriptions and example code, improving developer onboarding and workflow clarity.  
-- **Smart Wallet API Documentation** – Built structured and practical API guides to simplify integration for developers.  
-- **TwikkL Whitepaper** – Authored a comprehensive whitepaper that helped secure $18,000 in grants, establish partnerships, and raise pre-launch funding.  
-- **Orchestro.ai Documentation** – Developed developer-centric documentation using Mintlify and Postman, enhancing onboarding and reducing support requests.  
-- **Fansee & Aboutcode** – Produced step-by-step tutorials and visual walkthroughs to improve user understanding and experience.  
+- **[Rimplenet API Documentation](https://rimplenet.gitbook.io/rimplenet/)** – Created detailed API documentation with GitBook, including endpoint descriptions and example code, improving developer onboarding and workflow clarity.  
+- **[Smart Wallet API Documentation](https://rimplenet.gitbook.io/rimplenet-wallet-addon/)** – Built structured and practical API guides to simplify integration for developers.  
+- **[TwikkL Whitepaper](https://twikkl-documentation.gitbook.io/twikkl-whitepaper/)** – Authored a comprehensive whitepaper that helped secure $18,000 in grants, establish partnerships, and raise pre-launch funding.  
 
 
 ---
-### ✍️ Blogs & Technical Writing Contributions
+### 📝 Blogs & Articles
 
-- **ZkSync:** Implementing Meta-Transactions on zkSync Era  
-- **Huddle SDK:** Developer’s Intro & Project Ideas  
-- **Medium:** What is an API; Markdown: Beginner’s Guide  
-- **FreeCodeCamp:** Frameworks vs Libraries  
-- **Hashnode & Medium:** ReactJS vs NextJS; Mosaic Fantasy Games; Building Intro Sections  
-
+- [Implementing Meta-Transactions on zkSync Era](https://medium.com/@winifredjohnchidera123/account-abstraction-in-meta-transactions-on-zksync-era-6aa985f95026)
+- [A Developer's Intro to Huddle 01 SDK and Ideas to Build](https://medium.com/@winifredjohnchidera123/a-developers-intro-to-huddle-01-sdk-and-ideas-to-build-dad061c0b727)
+- [What is an API](https://winifredjohn.hashnode.dev/what-is-an-api-meaning-and-real-life-application-of-apis)
+- [Framework vs Libraries](https://medium.com/@winifredjohnchidera123/library-vs-framework-25a3eb46eee)
+- [Building a Paymaster to Reward Staking](https://medium.com/@winifredjohnchidera123/building-a-paymaster-to-reward-staking-in-zksync-md-809462e31c64)
+- [Markdown: A Beginner's Guide to Getting Started](https://winifredjohn.hashnode.dev/markdown-a-beginners-guide-to-getting-started)
 
 --- 
 ### 🛠️ Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+![HTML5](https://badgen.net/badge/HTML5/E34F26)
+![TailwindCSS](https://badgen.net/badge/TailwindCSS/06B6D4)
+![JavaScript](https://badgen.net/badge/JavaScript/F7DF1E)
+![TypeScript](https://badgen.net/badge/TypeScript/3178C6)
+![React](https://badgen.net/badge/React/61DAFB)
+![NextJS](https://badgen.net/badge/Next.js/000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnwinifred&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=johnwinifred&show_icons=true&count_private=true)
