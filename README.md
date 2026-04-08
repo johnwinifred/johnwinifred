@@ -20,11 +20,11 @@ I’m open to collaborating on:
 ### 🌟 Featured Projects
 | Project | Description | Repo/Link |
 |---------|-------------|------------|
-| **Simplified Blockchain** | A beginner-friendly blockchain project demonstrating blockchain fundamentals, smart contracts, and token flows. | [GitHub Repo](#) |
-| **Ethereum Tutorials Collection** | A collection of Ethereum tutorials, including dApps and smart contract deployment guides. | [GitHub Repo](#) |
-| **FAQ Hack** | SEO-optimized FAQ template project designed to show how documentation and FAQs can improve discoverability and user support. | [GitHub Repo](#) |
 | **Rimplenet API Docs** | Public version of the Rimplenet fintech wallet API documentation demonstrating best practices. | [GitHub Repo](#) |
 | **Orchestro.ai Docs** | Mintlify-based API documentation showing how clear technical docs improve developer onboarding. | [GitHub Repo](#) |
+| **Ethereum Tutorials Collection** | A collection of Ethereum tutorials, including dApps and smart contract deployment guides. | [GitHub Repo](#) |
+| **FAQ Hack** | SEO-optimized FAQ template project designed to show how documentation and FAQs can improve discoverability and user support. | [GitHub Repo](#) |
+
 
 
 ---
